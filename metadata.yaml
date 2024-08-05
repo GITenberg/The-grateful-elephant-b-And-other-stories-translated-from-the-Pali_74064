@@ -1,0 +1,44 @@
+_repo: The-grateful-elephant-b-And-other-stories-translated-from-the-Pali_74064
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Lathrop, Dorothy Pulis
+    alias: Lathrop, Dorothy P. (Dorothy Pulis)
+    birthdate: 1891
+    deathdate: 1980
+    gutenberg_agent_id: '32530'
+    url: http://www.gutenberg.org/2009/agents/32530
+    wikipedia: https://en.wikipedia.org/wiki/Dorothy_P._Lathrop
+creator:
+  author:
+    agent_name: Burlingame, Eugene Watson
+    alias: Burlingame, E. W. (Eugene Watson)
+    birthdate: 1876
+    deathdate: 1932
+    gutenberg_agent_id: '57330'
+    url: http://www.gutenberg.org/2009/agents/57330
+description: '"Twenty-six stories selected from the author''s larger work, Buddhist
+  parables."'
+gutenberg_issued: '2024-07-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74064'
+  lccn: '23016075'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uva.x000983483&seq=1
+pgterms:marc905: 20240521125743burlingame
+pgterms:marc906: '1923'
+pgterms:marc907: US
+production_note: Susan E., David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aNew Haven :$bYale University Press, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Buddhist legends'
+- !lcc 'PZ'
+- GITenberg
+title: 'The grateful elephant : $b And other stories translated from the Pāli'
+url: http://www.gutenberg.org/ebooks/74064
