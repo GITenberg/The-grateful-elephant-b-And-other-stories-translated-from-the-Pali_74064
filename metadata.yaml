@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '32530'
     url: http://www.gutenberg.org/2009/agents/32530
     wikipedia: https://en.wikipedia.org/wiki/Dorothy_P._Lathrop
+covers:
+- cover_type: archival
+  image_path: 74064-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Burlingame, Eugene Watson
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57330
 description: '"Twenty-six stories selected from the author''s larger work, Buddhist
   parables."'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74064#The-grateful-elephant-b-And-other-stories-translated-from-the-Pali
 gutenberg_issued: '2024-07-18'
 gutenberg_type: Text
 identifiers:
